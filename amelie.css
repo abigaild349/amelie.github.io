@@ -1,0 +1,101 @@
+
+        h1 {text-align: center;}
+        h2 {text-align: center;
+            color: palevioletred;
+            text-decoration: underline;
+        }
+        .main-photo {
+            border: solid;
+            border-width: 4px;
+            border-color:rgb(127, 195, 220)
+        }
+        figure {text-align: center;}
+        
+        h3 {text-align: center;
+            font-weight: bold;
+            color: palevioletred;
+            text-decoration-style: wavy;
+        }
+        h4 {
+            text-align: center;
+            color: palevioletred;
+            font-weight: bold;    
+        }
+        dl{text-align: center;}
+        dt{text-decoration-line: underline;
+            text-decoration-style: wavy;
+            font-weight: bolder;
+        }
+        .column-2 {
+            border-width: 5px;
+            border-style:groove;
+            border-color: rgb(0, 0, 0);
+              }
+        .column-3 {
+            border-width: 4px;
+            border-style:dashed;
+            border-color: black;
+              }
+        h1 {color: palevioletred;}
+        #amelie-text {
+            text-align: justify;
+            padding-left: 2em;
+            padding-right: 2em;
+            font-size: 1.5em;
+        }
+        #about-title {
+            text-align: justify;
+            padding-left: 2em;
+            padding-right: 2em;
+            font-size: 3em;
+            }
+        td{
+        border: solid;
+        border-width: 4px;
+        border-style:solid;
+        border-color: green;
+              }
+    
+        table {text-align:center;}
+        .photo {float: right;
+        border: solid;
+        border-width: 3px;
+        border-color: rgb(127, 195, 220);
+            }
+        .picture {border: solid;
+        float: right;        
+            }
+        .navlink{ background-color: rgba(237, 157, 199, 0.295);}  
+    body {background-color: rgba(218, 171, 231, 0.473);}
+    
+    .pic {border: solid;
+            float: left;}
+    .onebox {
+        float: right;
+        border: solid;
+        border-width: 4px;
+        border-color: rgb(220, 127, 127);}
+    .twobox {
+        float: right;
+        border: solid;
+        border-width: 4px;
+        border-color: rgb(127, 220, 163);}
+
+    .ouch {  float: right;
+        border: solid;
+        border-width: 4px;
+        border-color: rgb(156, 127, 220);}
+    h5 {
+            text-align: center;
+            font-weight: bold;
+            color: palevioletred;
+            font-weight: bolder;
+            font-size: larger;}
+
+
+
+
+
+
+            
+    
